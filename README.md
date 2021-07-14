@@ -36,15 +36,14 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
 <a href = https://www.instagram.com/mind.wrapper/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <p align = "center" > Number of visits <br> 
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg) 
+  ![VisitorCount](https://profile-counter.glitch.me/{Anushka-Singh21}/count.svg) 
 </p>
+  <hr>
   ## _Languages and Tools:_ 🛠  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -61,7 +60,8 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Singh21&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anushka-Singh21&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+ <td><img src="https://github-readme-stats.vercel.app/api/wakatime?
+    username=Anushka-Singh21&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-[<img align="left" alt="Ankita's_website" height="30px" src="https://anushka.mystrikingly.com/
+[<img align="left" alt="Anushka's_website" height="30px" src="https://anushka.mystrikingly.com/
 " />](https://github.com/Anushka-Singh21)
 
 [<img align="left" alt="Ankita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/anushka23)
