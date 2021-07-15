@@ -97,8 +97,7 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-[<img align="left" alt="Anushka's_website" height="30px" src="https://anushka.mystrikingly.com/
-" />](https://github.com/Anushka-Singh21)
+[<img align="left" alt="Anushka's_website" height="30px" src="https://anushka.mystrikingly.com/"/>](https://github.com/Anushka-Singh21)
 
 [<img align="left" alt="Ankita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/anushka23)
 
