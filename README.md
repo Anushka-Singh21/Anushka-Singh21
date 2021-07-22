@@ -30,10 +30,10 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
 
 <hr>
   <p align = "center">
-<a href =https://github.com/Apurva-tech target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/apurva866/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/mindwrapper target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
-<a href = https://www.instagram.com/mind.wrapper/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
+<a href = https://github.com/Anushka-Singh21 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/anushka-singh-a1a1941bb/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
+<a href =https://www.instagram.com/anush_ka4881/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <p align = "center" > Number of visits <br> 
   
   ![VisitorCount](https://profile-counter.glitch.me/{Anushka-Singh21}/count.svg) 
@@ -55,13 +55,11 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Anushka-Singh21&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?
- username=Anushka-Singh21&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/? username=Anushka-Singh21&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Singh21&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
- <td><img src="https://github-readme-stats.vercel.app/api/wakatime?
-    username=Anushka-Singh21&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+ <td><img src="https://github-readme-stats.vercel.app/api/wakatime?  username=Anushka-Singh21&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
@@ -99,7 +97,7 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
 
 [<img align="left" alt="Anushka's_website" height="30px" src="https://anushka.mystrikingly.com/"/>](https://github.com/Anushka-Singh21)
 
-[<img align="left" alt="Ankita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/anushka23)
+[<img align="left" alt="Anushka's_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/anushka23)
 
 
 [<img align="left" alt="Aushka-Singh21| Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/anush_ka4881)
