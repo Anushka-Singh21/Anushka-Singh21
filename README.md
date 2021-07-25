@@ -59,8 +59,6 @@ I'm Anushka Singh.I am currently a 2nd year undergraduate pursuing BCA from <b> 
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Singh21&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
- <td><img src="https://wakatime.com/share/@f1eb2287-edaa-48f8-a89e-7af02608ef93/da7b215a-a4e9-46da-a80b-c452a942e475.svg" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
   </tr>
 </table>
 
